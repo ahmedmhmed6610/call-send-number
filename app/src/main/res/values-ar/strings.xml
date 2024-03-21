@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">الوافي</string>
+    <string name="save">حفظ</string>
+    <string name="start">يعمل</string>
+    <string name="number">رقم</string>
+    <string name="save_data">تم حفظ البيانات بنجاح </string>
+</resources>

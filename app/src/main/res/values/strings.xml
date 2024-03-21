@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">AllWify</string>
+    <string name="save">Save</string>
+   <string name="start">start</string>
+    <string name="number">Number</string>
+    <string name="save_data"> Save Data success ...</string>
+</resources>
